@@ -220,7 +220,7 @@ public class TalkActivity extends TapiaActivity implements SurfaceHolder.Callbac
 
 
 
-//        竹内追加分[
+//        竹内追加分
 //      Greeting
         actions.add(new Greeting(new Greeting.OnThisActionListener() {
             @Override
